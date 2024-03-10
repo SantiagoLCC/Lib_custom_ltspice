@@ -1,0 +1,4 @@
+.SUBCKT buffer IN OUT V+ V-
+XU1 IN OUT V+ V- OUT TL082
+.lib TCLib/TL082.lib
+.end buffer

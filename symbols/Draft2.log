@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\ITBA\Lib_custom_ltspice\symbols\Draft2.asc
+Start Time: Fri Mar  8 21:27:32 2024
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.058 seconds.
+

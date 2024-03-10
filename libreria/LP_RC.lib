@@ -1,0 +1,4 @@
+.SUBCKT LP_RC IN OUT gr
+R1 IN OUT {ri}
+C1 OUT gr {ci}
+.ENDS

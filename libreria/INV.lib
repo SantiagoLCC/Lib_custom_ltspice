@@ -1,0 +1,6 @@
+.SUBCKT INV vi vo gr Vcc Vee
+XU1 gr N001 Vcc Vee vo TL082
+R1 vi N001 {ra}
+R2 N001 vo {rb}
+.lib TCLib/TL082.lib
+.ENDS

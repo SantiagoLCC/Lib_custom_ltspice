@@ -1,0 +1,4 @@
+.SUBCKT HP_RC vi vo gr
+R1 vo gr {ra}
+C1 vi vo {ca}
+.ENDS
